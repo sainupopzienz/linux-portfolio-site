@@ -60,7 +60,7 @@ const AnimatedHeader = () => {
             </div>
             <div>
               <div className="text-xl font-bold bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent font-mono">
-                Sainudeen Safar A
+                Sainudeen Safar 
               </div>
               <div className="text-xs text-gray-400 font-mono">
                 {currentTime.toLocaleTimeString()}
