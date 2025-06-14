@@ -11,10 +11,10 @@ const Footer = () => {
           {/* Brand Section */}
           <div>
             <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-teal-400 bg-clip-text text-transparent">
-              Sainudeen Safar A
+              Sainudeen Safar 
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              DevOps Engineer passionate about building scalable, reliable, and efficient 
+              I'm a DevOps Engineer passionate about building scalable, reliable, and efficient 
               infrastructure solutions for modern applications.
             </p>
           </div>
