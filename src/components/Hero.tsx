@@ -25,7 +25,7 @@ const Hero = () => {
           {/* Main Title */}
           <h1 className="text-5xl md:text-7xl font-bold mb-4">
             <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-teal-600 bg-clip-text text-transparent">
-              Sainudeen Safar A
+              Sainudeen Safar 
             </span>
           </h1>
           
