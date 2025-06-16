@@ -24,7 +24,7 @@ const InteractiveProjects = () => {
       title: "VideoKYC Platform",
       description: "Enterprise-grade video KYC solution enabling customers to complete digital identity verification remotely.",
       icon: <Shield className="text-green-400" size={32} />,
-      clients: ["State Bank of India", "IndusInd Bank", "Federal Bank"],
+      clients: ["India's Leading Banks", "International Banks", "Mnc's"],
       technologies: ["AWS", "Kubernetes", "Docker", "CI/CD", "Monitoring"],
       architecture: ["Microservices", "Load Balancer", "Auto Scaling", "RDS"],
       metrics: { uptime: "99.9%", users: "10K+", deployments: "50+" },
@@ -41,7 +41,7 @@ const InteractiveProjects = () => {
       title: "SIB-FD Account Opening",
       description: "Streamlined digital account opening platform for State Bank of India's Fixed Deposit services.",
       icon: <Building className="text-blue-400" size={32} />,
-      clients: ["State Bank of India"],
+      clients: ["India's Leading Bank"],
       technologies: ["Linux", "Docker", "Jenkins", "AWS", "Terraform"],
       architecture: ["Monolithic", "CDN", "Database Cluster", "Backup"],
       metrics: { uptime: "99.8%", transactions: "5K+", response: "<2s" },
@@ -55,7 +55,7 @@ const InteractiveProjects = () => {
       bgPattern: "bg-blue-500/10"
     },
     {
-      title: "Japan Booking System",
+      title: "Booking System",
       description: "Sophisticated booking and reservation system for a Japan-based client with complex scheduling requirements.",
       icon: <Plane className="text-purple-400" size={32} />,
       clients: ["Japan-based Client"],
@@ -75,7 +75,7 @@ const InteractiveProjects = () => {
       title: "Document Extraction Platform",
       description: "AI-powered platform for extracting and processing information from Aadhaar cards and passports.",
       icon: <CreditCard className="text-orange-400" size={32} />,
-      clients: ["Aditya Birla Group", "State Bank of India", "Dubai Racing Club"],
+      clients: ["International Business Groups", "Prominent Banks", "Dubai Based Client", "Dubai Racing Club"],
       technologies: ["AWS", "Docker", "Kubernetes", "Terraform", "Python"],
       architecture: ["Serverless", "ML Pipeline", "Queue System", "Storage"],
       metrics: { accuracy: "98%", processed: "100K+", clients: "3" },
@@ -89,10 +89,10 @@ const InteractiveProjects = () => {
       bgPattern: "bg-orange-500/10"
     },
     {
-      title: "KSFE Dedupe System",
+      title: "Dedupe System",
       description: "Data deduplication and management system for Kerala State Financial Enterprises.",
       icon: <Users className="text-teal-400" size={32} />,
-      clients: ["Kerala State Financial Enterprises"],
+      clients: ["Kerala State Government Institution"],
       technologies: ["Linux", "Docker", "GitLab CI", "Monitoring", "Scripting"],
       architecture: ["Batch Processing", "Data Pipeline", "Scheduler", "Reporting"],
       metrics: { efficiency: "85%", records: "1M+", storage: "60% saved" },
