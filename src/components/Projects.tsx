@@ -32,7 +32,7 @@ const Projects = () => {
       color: "from-blue-500 to-blue-700"
     },
     {
-      title: "Japan Booking System",
+      title: "Booking System",
       description: "Sophisticated booking and reservation system for a Japan-based client, handling complex scheduling and inventory management requirements.",
       icon: <Plane className="text-purple-600" size={32} />,
       clients: ["Japan-based Client"],
@@ -60,7 +60,7 @@ const Projects = () => {
       color: "from-orange-500 to-red-600"
     },
     {
-      title: "KSFE Dedupe System",
+      title: "Dedupe System",
       description: "Data deduplication and management system for Kerala State Financial Enterprises, ensuring data integrity and optimizing storage efficiency.",
       icon: <Users className="text-teal-600" size={32} />,
       clients: ["Kerala State Government Institution"],
