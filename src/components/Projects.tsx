@@ -7,7 +7,7 @@ const Projects = () => {
       title: "VideoKYC Platform",
       description: "Enterprise-grade video KYC solution enabling customers to complete digital identity verification remotely. Implemented robust infrastructure to handle high-volume verification processes.",
       icon: <Shield className="text-green-600" size={32} />,
-      clients: ["State Bank of India", "IndusInd Bank", "Federal Bank"],
+      clients: ["India's Leading Banks", "International Banks", "Mnc's"],
       technologies: ["AWS", "Kubernetes", "Docker", "CI/CD", "Monitoring"],
       highlights: [
         "Scalable infrastructure for multiple banking clients",
@@ -21,7 +21,7 @@ const Projects = () => {
       title: "SIB-FD Account Opening",
       description: "Streamlined digital account opening platform for State Bank of India's Fixed Deposit services, focusing on user experience and backend reliability.",
       icon: <Building className="text-blue-600" size={32} />,
-      clients: ["State Bank of India"],
+      clients: ["India's Leading Banks"],
       technologies: ["Linux", "Docker", "Jenkins", "AWS", "Terraform"],
       highlights: [
         "Automated infrastructure provisioning",
@@ -49,7 +49,7 @@ const Projects = () => {
       title: "Document Extraction Platform",
       description: "AI-powered platform for extracting and processing information from Aadhaar cards and passports, serving multiple high-profile clients across different sectors.",
       icon: <CreditCard className="text-orange-600" size={32} />,
-      clients: ["Aditya Birla Group", "State Bank of India", "Dubai Racing Club"],
+      clients: ["International Business Groups", "Prominent Banks", "Dubai Based Client"],
       technologies: ["AWS", "Docker", "Kubernetes", "Terraform", "Python"],
       highlights: [
         "Multi-tenant architecture for diverse clients",
@@ -63,7 +63,7 @@ const Projects = () => {
       title: "KSFE Dedupe System",
       description: "Data deduplication and management system for Kerala State Financial Enterprises, ensuring data integrity and optimizing storage efficiency.",
       icon: <Users className="text-teal-600" size={32} />,
-      clients: ["Kerala State Financial Enterprises"],
+      clients: ["Kerala State Government Institution"],
       technologies: ["Linux", "Docker", "GitLab CI", "Monitoring", "Scripting"],
       highlights: [
         "Large-scale data processing capabilities",
