@@ -21,7 +21,7 @@ const Projects = () => {
       title: "SIB-FD Account Opening",
       description: "Streamlined digital account opening platform for State Bank of India's Fixed Deposit services, focusing on user experience and backend reliability.",
       icon: <Building className="text-blue-600" size={32} />,
-      clients: ["India's Leading Banks"],
+      clients: ["India's Leading Bank"],
       technologies: ["Linux", "Docker", "Jenkins", "AWS", "Terraform"],
       highlights: [
         "Automated infrastructure provisioning",
